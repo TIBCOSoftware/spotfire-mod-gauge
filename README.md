@@ -1,5 +1,7 @@
 # Gauge Mod for TIBCO Spotfire®
 
+<img src="assets/gauge.png" width="60%"/>
+
 A configurable visualization for gauge reading using a radial scale to display a specific data point using a dial over a radial scale with defined limits.
 
 Gauges can be used for many purposes like speed, satisfaction, volume, temperature, etc. But most common use is from car dashboard for fuel, speed, etc. also known as speedometer.
